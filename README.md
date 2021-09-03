@@ -1,2 +1,3 @@
-# ProductLandingPage-FreeCodeCamp
-Third Responsive Web Design project from FreeCodeCamp: Product Landing Page
+# ProductLandingPage
+#### Description: Third Responsive Web Design project from FreeCodeCamp: Product Landing Page
+This project is a product landing page for a guitar shop. I chose this topic for my project since playing guitar is one of my favorite hobbies and I have been known to frequent guitar shops. I included a navigation bar at the top-right of the page and a guitar symbol on the top-left. I also included a footer at the bottom of the page with additional information related to the shop. I included a video of the shop as well as a text box with a submit button that users can input their email if they want to be contacted.
